@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -248,12 +248,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c5bc95447c8bfdd",
+  "active": "56409935c43dcab3",
   "lastOpenFiles": [
-    "client.md",
+    "conflict-files-obsidian-git.md",
     "overseer.md",
     "main.md",
     "device.md",
+    "client.md",
     "neg/Template 1.md",
     "1NCE notes.md",
     "Untitled.md",
