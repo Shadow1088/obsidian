@@ -1,3 +1,6 @@
+parent: [[client]]
+child: [[device-hw]]
+
 purpose:
 - send data
 
@@ -14,9 +17,9 @@ telecommunications:
 
 modes:
 - off
-- passive-on (every #x minutes executes #Share) (eDRX for power saving)
-- active-on (executes #Emergency and every #x seconds executes #Share)
-- settings (starts AdHoc network and opens a config website, *auth*)
+- passive-on (every #x minutes executes #Share) (eDRX for power saving) #TODO
+- active-on (executes #Emergency and every #x seconds executes #Share) #TODO
+- setup (starts AdHoc network and opens a config website, *auth*)
 
 **Key features:**
 - #Share: shares location to the overseers
