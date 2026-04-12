@@ -9,7 +9,6 @@ visual:
 
 powered by:
 - battery
-- solar panel
 
 telecommunications:
 - wireless (1NCE)
