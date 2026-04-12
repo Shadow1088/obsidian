@@ -13,8 +13,10 @@ telecommunications:
 - WiFi (not preffered)
 
 modes:
-- active (eDRX for power saving)
-- settings (otevre WiFi network a zapne web setup page, *auth*)
+- off
+- passive-on (every #x minutes executes #Share) (eDRX for power saving)
+- active-on (executes #Emergency and every #x seconds executes #Share)
+- settings (starts AdHoc network and opens a config website, *auth*)
 
 **Key features:**
 - #Share: shares location to the overseers
