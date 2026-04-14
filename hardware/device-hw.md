@@ -6,8 +6,8 @@ visual:
 	2. ESP32 ([link](https://dratek.cz/arduino-platforma/1581-esp-32s-esp32-esp8266-development-board-2.4ghz-dual-mode-wifi-bluetooth-antenna-module.html?gad_source=1&gad_campaignid=21656222776&gbraid=0AAAAACVG_WfB1GqqsMPU8PvEWr9PWMxfV&gclid=Cj0KCQjwy_fOBhC6ARIsAHKFB7-PniGeAvBLNgIAm-zEN3qy85dOmGYH7o5q_z9qg2jU9sX2HOpD5boaAviiEALw_wcB))
 	3. battery ([link](https://www.odkarla.cz/dobijeci-lithium-polymerova-baterie-eemb-37-v-1800-mah-103450-s-konektorem-jst-pro-vxi-blue~p1650670?utm_content=1650670&gad_source=1&gad_campaignid=11516818758&gbraid=0AAAAADOwWw0JNXJGh0RcK29Ys6_nFvR0L&gclid=Cj0KCQjwy_fOBhC6ARIsAHKFB78LXkT-oGHNGMVgUFP-KN6VrSrgKWU8FL-w0LLWeX5S17eVxDG5TCEaAhwBEALw_wcB)) ^525775
 - Antennas (movable? flat? expandable? #TODO)
-- Button (triple press activates [active on] , 5 second hold activates [setup])
-- Switch (switches modes [off  /  passive-on])
+- Button (triple press activates [active-on](device-desc#^2d5c60) , 5 second hold activates [setup](device-desc#^4ee513))
+- Switch (switches modes [passive-on](device-desc#^1cdead) / [off](device-desc#^off) )
 
 powered by:
 - [battery](device-hw#^525775)

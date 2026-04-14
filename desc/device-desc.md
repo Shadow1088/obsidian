@@ -16,9 +16,9 @@ telecommunications:
 
 modes:
 - off
-- passive-on (every #x minutes executes #Share) (eDRX for power saving) #TODO
-- active-on (executes #Emergency and every #x seconds executes #Share) #TODO
-- setup (starts AdHoc network and opens a config website, *auth*)
+- passive-on (every #x minutes executes #Share) (eDRX for power saving) #TODO ^1cdead
+- active-on (executes #Emergency and every #x seconds executes #Share) #TODO ^2d5c60
+- setup (starts AdHoc network and opens a config website, *auth*) ^4ee513
 
 **Key features:**
 - #Share: shares location to the overseers
