@@ -4,8 +4,8 @@ MO-SMS = device with a 1NCE SIM can send messages. All MO-SMS messages can be re
 	[1NCE SMS Forwarder Service](https://help.1nce.com/dev-hub/docs/platform-services-sms-forwarder)
 
 why sms?
-- EMEGENCY from [[device]]
-- ~~check battery from [[overseer]]~~
+- EMEGENCY from [[device-desc]]
+- ~~check battery from [[overseer-desc]]~~
 
 
 ***data management*** - keep 10-20 collected locations and send one packet with it every hour

@@ -1,6 +1,6 @@
 
 divided into:
-	[[overseer]] and [[device]]
+	[[overseer-desc]] and [[device-desc]]
 
 purpose: 
 - send and receive data
