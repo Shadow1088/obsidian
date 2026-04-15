@@ -11,8 +11,7 @@ powered by:
 - battery
 
 telecommunications:
-- wireless (1NCE)
-- WiFi (not preffered)
+- celluar (4G , NB-IoT) - [1NCE](https://www.1nce.com/en-eu/1nce-connect/pricing)
 
 modes:
 - off
