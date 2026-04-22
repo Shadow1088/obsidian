@@ -1,3 +1,5 @@
+
+It is recommended to view this content in the [Obsidian](https://obsidian.md/) markup editor
 ### **What is the idea?**
 
 ***Location tracking device***
@@ -16,4 +18,6 @@
 
 ### **Optional requirements:**
 - minimal size
+
+
 
