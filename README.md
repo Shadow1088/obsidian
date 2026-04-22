@@ -1,6 +1,6 @@
-### What is the idea?
+### **What is the idea?**
 
-***Location tracking***
+***Location tracking device***
 
 ### **Project topology:**
 - [[client]]-server
@@ -12,13 +12,8 @@
 - Wide society
 
 ### **Mandatory requirements:
-- not WiFi limited
+-  [devices](device-desc) have to be reachable 24/7 and at any part of the world
 
 ### **Optional requirements:**
 - minimal size
 
-### **Mandates:**
-- overseers have to be online/offline #TODO
-- devices #share their location when woke up AND time interval (= x minutes)
-- devices have to be reachable 24/7
-- devices share their LAT/LONG, uname, (12 bytes)
