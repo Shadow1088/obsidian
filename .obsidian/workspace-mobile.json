@@ -11,14 +11,10 @@
             "id": "d5e7ed39d0b7efd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "desc/device-desc.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "device-desc"
+              "title": "New tab"
             }
           }
         ]
@@ -181,31 +177,41 @@
   },
   "active": "d5e7ed39d0b7efd4",
   "lastOpenFiles": [
+    "obsidian/main/main.md",
+    "obsidian/main/client.md",
+    "obsidian/main/1NCE.md",
+    "obsidian/desc/overseer-desc.md",
+    "obsidian/desc/1NCE-desc.md",
+    "/obsidian/main/main.md",
+    "obsidian/hardware/device-hw.md",
+    "/obsidian/main/client.md",
+    "/obsidian/main/1NCE.md",
+    "/obsidian/desc/overseer-desc.md",
+    "/obsidian/desc/1NCE-desc.md",
+    "/obsidian/hardware/device-hw.md",
+    "obsidian/desc/device-desc.md",
     "hardware/device-hw.md",
-    "main/main.md",
+    "/obsidian/desc/device-desc.md",
+    "obsidian/main",
+    "obsidian/hardware",
+    "obsidian/desc",
+    "obsidian",
+    "/obsidian/main",
+    "/obsidian/hardware",
+    "/obsidian/desc",
+    "/obsidian",
+    "/main",
+    "/hardware",
     "desc/device-desc.md",
     "main/client.md",
+    "main/main.md",
+    "desc/1NCE-desc.md",
     "main/1NCE.md",
     "desc/overseer-desc.md",
-    "desc/1NCE-desc.md",
     "/hardware/device-hw.md",
     "/desc/device-desc.md",
     "/main/client.md",
     "/main/1NCE.md",
-    "/desc/overseer-desc.md",
-    "/desc/1NCE-desc.md",
-    "/main/main.md",
-    "overseer.md",
-    "main",
-    "hardware",
-    "desc",
-    "/main",
-    "/hardware",
-    "/desc",
-    "/overseer.md",
-    "main.md",
-    "device.md",
-    "client.md",
-    "1NCE notes.md"
+    "/desc/overseer-desc.md"
   ]
 }
